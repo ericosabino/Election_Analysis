@@ -1,0 +1,14 @@
+
+candidates_votes = {}
+
+print("candidate votes vazio:\n ")
+print(candidates_votes)
+print("\n")
+
+candidates_votes["Érico"] = 1000
+
+print("candidate votes populado:\n ")
+print(candidates_votes)
+print("\n")
+
+#candidate_votes[candidate_name] += 1
